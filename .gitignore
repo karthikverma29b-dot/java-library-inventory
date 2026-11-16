@@ -1,0 +1,25 @@
+# Compiled Java class files
+*.class
+bin/
+target/
+build/
+out/
+
+# Temporary test data and logs
+test_library_data.txt
+*.log
+*.tmp
+
+# IDE / Editor folders and configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
